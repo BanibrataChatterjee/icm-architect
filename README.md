@@ -8,7 +8,7 @@ The workspace is a library. The routing files are the catalog: small, stable, th
 
 - Paper: [Interpretable Context Methodology: Folder Structure as Agent Architecture](https://arxiv.org/abs/2603.16021) (Van Clief & McDermott)
 - Protocol repo: [Interpretable-Context-Methodology-ICM](https://github.com/RinDig/Interpretable-Context-Methodology-ICM)
-- Community: [Clief Notes]([https://eduba.io](https://www.skool.com/cliefnotes))
+- Community: [Clief Notes](https://www.skool.com/cliefnotes))
 
 ## What it does
 
