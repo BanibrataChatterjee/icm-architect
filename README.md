@@ -7,7 +7,6 @@ ICM (Interpretable Context Methodology) replaces orchestration code with structu
 The workspace is a library. The routing files are the catalog: small, stable, they point at everything and store almost nothing. One librarian — one model — walks the building, and the question decides which shelf gets walked to.
 
 - Paper: [Interpretable Context Methodology: Folder Structure as Agent Architecture](https://arxiv.org/abs/2603.16021) (Van Clief & McDermott)
-- Protocol repo: [Interpretable-Context-Methodology-ICM](https://github.com/RinDig/Interpretable-Context-Methodology-ICM)
 - Community: [Clief Notes](https://www.skool.com/cliefnotes)
 
 ## What it does
